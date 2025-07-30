@@ -4,3 +4,10 @@ git add . //le da seguimiento a todos los archivos de mi retpositorio, los prepa
 git add + archivo especifico // le da seguimiento al archivo especificado
 creando una carpeta .gitignore dentro de ella espesificamos los nombres de los archivos que queremos ignorar parea que no se suban a mi repo
 git commit _m "una comentario tipo version" // esto sube y crea una version de mi proyecto
+
+git remote add origin //añade una direccion url de repo en la nube donde vamos a subir nuetros proyecto y sus versiones
+git remote -v // ver la url de mi repo 
+git branch -M main // me cambio a la rama main
+git push -u origin main //mando todo a mi repo git hub
+
+
