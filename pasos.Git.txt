@@ -1,0 +1,6 @@
+git init //inicia un retpositorio
+la U significa untracked o sea sin seguimineto
+git add . //le da seguimiento a todos los archivos de mi retpositorio
+git add + archivo especifico // le da seguimiento al archivo especificado
+creando una carpeta .gitignore dentro de ella espesificamos los nombres de los archivos que queremos ignorar parea que no se suban a mi repo
+
